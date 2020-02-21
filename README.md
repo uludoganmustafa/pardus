@@ -1,0 +1,2 @@
+# pardus
+türkçe paketler
